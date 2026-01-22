@@ -1,0 +1,1 @@
+This repository provides the simulation configuration files used in our paper. It includes modified IEEE 34-bus and IEEE 123-bus test systems, load uncertainty settings, PV/ESS (DER) deployment settings, solar irradiance data, and MODRL/D training hyperparameter
